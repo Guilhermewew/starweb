@@ -1,0 +1,16 @@
+{
+  "name": "Bootstrap AI Builder",
+  "short_name": "BS AI",
+  "description": "Crie interfaces Bootstrap com ajuda da inteligência artificial Groq.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8f9fa",
+  "theme_color": "#712cf9",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/5968/5968672.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
